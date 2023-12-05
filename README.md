@@ -1,4 +1,4 @@
-# Targeted-IPD-Agent
+# Chameleon
 Final project for ECO 386E Introduction to Game Theory, where I present an evolutionary IPD strategy called Chameleon, that attempts to exploit other group strategies through mimicry.
 
 The primary contribution are as follows:
